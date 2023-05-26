@@ -1,0 +1,12 @@
+.gameBox {
+    width: 50%;
+    border: 3px solid rebeccapurple;
+    text-align: center;
+}
+
+.numberBox {
+    display: inline-block;
+    width: 40px;
+    padding: 20px;
+    font-size: 32px;
+}

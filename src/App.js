@@ -9,7 +9,7 @@ function App() {
   const [toFind, setToFind] = useState(7);
 
   return (
-    <div class="pageBody">
+    <div className="pageBody">
       <h1>How Fast Can You Find Number {toFind}</h1>
       <Timer />
       <Toggler />
